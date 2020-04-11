@@ -12,4 +12,4 @@
 
   http://www.imparareaprogrammare.it
 */
-prova ftx
+prova ft
